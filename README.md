@@ -1,6 +1,6 @@
 
-## 👋 Hola!, mi nombre es María josé (Majo-sh) ⚧️
-Soy **desarrolladora frontend** estoy llena de **pasión** 🔥🔥🔥 
+## 👋 Hola!, mi nombre es María josé (Majo-sh) 
+Soy **desarrolladora frontend** 
 utilizo **HTML, CSS, JS. Con React.js**
 ___
 
